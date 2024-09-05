@@ -2,11 +2,18 @@
 module.exports = {
   content: ['./resources/views/dashboard.blade.php', './resources/views/assets/index.blade.php'],
   theme: {
+    container: {
+        center: true,
+        padding: '16px',
+    },
     extend: {
         colors: {
             primary: '#14b8a6',
             dark: '#0f172a',
         },
+        screens: {
+            '2xl' : '1320px',
+        }
     },
   },
   plugins: [],
