@@ -10,8 +10,9 @@ module.exports = {
         colors: {
             primary: '#14b8a6',
             dark: '#7456FF',
-            tes: '#0F0F0F',
+            tess: '#1D1D1D',
             gray: '#999999',
+            tes: '#0F0F0F',
         },
         screens: {
             '2xl' : '1320px',

@@ -37,12 +37,19 @@
             </div>
         </div>
     </section>
-    <section id="about" class="pt-36 pb-32">
+    <section id="about" class="bg-tess pt-36 pb-32">
         <div class="container">
             <div class="flex flex-warp">
                 <div class="w-full px-4 mb-10">
-                    <h4>Tentang Saya</h4>
-                    <h2>Yuk, b</h2>
+                    <h4 class="font-bold uppercase text-dark text-lg mb-3">Tentang Saya</h4>
+                    <h2 class="font-bold text-gray">Yuk, belajar web programming di WPU!</h2>
+                    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eligendi, facilis ducimus. Unde assumenda
+                        recusandae error quia.</p>
+                </div>
+                <div class="w-full px-4">
+                    <h1>Mari berteman</h1>
+                    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Obcaecati, blanditiis iusto esse sapiente
+                        adipisci quisquam dignissimos consectetur eum?</p>
                 </div>
             </div>
         </div>
