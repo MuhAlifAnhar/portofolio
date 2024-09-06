@@ -43,12 +43,14 @@
                 <div class="w-full px-4 mb-10">
                     <h4 class="font-bold uppercase text-dark text-lg mb-3">Tentang Saya</h4>
                     <h2 class="font-bold text-gray">Yuk, belajar web programming di WPU!</h2>
-                    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eligendi, facilis ducimus. Unde assumenda
+                    <p class="font-bold text-gray">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eligendi,
+                        facilis ducimus. Unde assumenda
                         recusandae error quia.</p>
                 </div>
                 <div class="w-full px-4">
-                    <h1>Mari berteman</h1>
-                    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Obcaecati, blanditiis iusto esse sapiente
+                    <h1 class="font-bold uppercase text-dark text-lg mb-3">Mari berteman</h1>
+                    <p class="font-bold text-gray">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Obcaecati,
+                        blanditiis iusto esse sapiente
                         adipisci quisquam dignissimos consectetur eum?</p>
                 </div>
             </div>
