@@ -42,23 +42,19 @@
             <div class="flex flex-wrap">
                 <div class="w-full px-4 mb-10 lg:w-1/2">
                     <h4 class="font-bold uppercase text-dark text-lg mb-3">Tentang Saya</h4>
-                    <h2 class="font-bold text-gray text-3xl mb-5 max-w-xl lg:text-4xl">Yuk, belajar web programming di WPU!
+                    <h2 class="font-bold text-gray text-3xl mb-5 max-w-xl lg:text-4xl">Mengenal Saya Lebih Dekat
                     </h2>
-                    <p class="font-medium text-base text-gray max-w-xl lg:text-lg">Lorem ipsum dolor sit, amet consectetur
-                        adipisicing
-                        elit.
-                        Eligendi,
-                        facilis ducimus. Unde assumenda
-                        recusandae error quia.</p>
+                    <p class="font-medium text-base text-gray max-w-xl lg:text-lg">Saya Muh. Alif Anhar, seorang programmer
+                        yang bersemangat dalam menciptakan solusi kreatif berbasis web. Dengan pengalaman di berbagai proyek
+                        pengembangan aplikasi, saya terus belajar dan mengasah keterampilan untuk membantu bisnis dan
+                        individu mencapai potensi terbaik mereka di dunia digital</p>
                 </div>
                 <div class="w-full px-4 lg:w-1/2">
                     <h1 class="font-semibold text-gray text-2xl mb-4 lg:text-3xl lg:pt-10">Mari berteman</h1>
-                    <p class="font-medium text-base text-gray mb-6 lg:text-lg">Lorem, ipsum dolor sit amet consectetur
-                        adipisicing
-                        elit.
-                        Obcaecati,
-                        blanditiis iusto esse sapiente
-                        adipisci quisquam dignissimos consectetur eum?</p>
+                    <p class="font-medium text-base text-gray mb-6 lg:text-lg">Saya selalu terbuka untuk berkolaborasi,
+                        berbagi ide, atau berdiskusi tentang teknologi. Jangan ragu untuk menghubungi saya melalui platform
+                        sosial media atau pesan langsung. Saya percaya, hubungan baik adalah kunci menuju kesuksesan
+                        bersama!</p>
                     <div class="flex items-center">
                         <a href="https://github.com/muhalifanhar" target="_blank"
                             class="mr-3 flex h-9 w-9 items-center justify-center rounded-full border border-dark text-dark hover:border-dark hover:bg-dark hover:text-black">
