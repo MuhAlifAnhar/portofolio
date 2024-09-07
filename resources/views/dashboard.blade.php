@@ -5,6 +5,23 @@
 @endsection
 
 @section('aslina')
+    <header class="bg-transparent absolute top-0 left-0 w-full flex items-center z-10">
+        <div class="container">
+            <div class="flex items-center justify-between relative">
+                <div class="px-4">
+                    <a href="#home" class="font-bold text-lg text-dark block py-6">alif<span
+                            class="font-bold text-lg text-white">anhar</span></a>
+                </div>
+                <div class="flex items-center px-4">
+                    <button id="navbar" name="navbar" type="button" class="block absolute right-4">
+                        <span class="navbar-line transition duration-300 ease-in-out origin-top-left"></span>
+                        <span class="navbar-line transition duration-300 ease-in-out"></span>
+                        <span class="navbar-line transition duration-300 ease-in-out origin-bottom-left"></span>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </header>
     <section id="home" class=" bg-tes pt-36">
         <div class="container">
             <div class="flex flex-wrap">
@@ -12,10 +29,9 @@
                     <h1 class="text-base font-semibold text-white md:text-xl">Halo Semua 👋, saya <span
                             class="block font-bold text-dark text-4xl mt-1 lg:text-5xl">Muh. Alif Anhar</span></h1>
                     <h2 class="font-medium text-gray text-lg mb-5 lg:text-2xl">Web Developer</h2>
-                    <p class="font-medium text-gray mb-10 leading-relaxed">Seorang programmer dan talenta digital yang
-                        berdedikasi dalam
-                        merancang dan mengembangkan solusi
-                        teknologi kreatif dan efisien untuk menghadirkan pengalaman digital yang memukau</p>
+                    <p class="font-medium text-gray mb-10 leading-relaxed">Seorang programmer yang berdedikasi dalam
+                        merancang dan mengembangkan solusi teknologi kreatif serta efisien, untuk menghadirkan pengalaman
+                        digital yang memukau.</p>
 
                     <a href=""
                         class="text-base font-semibold text-white bg-dark py-3 px-8 rounded-full  hover:shadow-lg hover:opacity-80 transition duration-300 ease-in-out">Hubungi
@@ -44,17 +60,17 @@
                     <h4 class="font-bold uppercase text-dark text-lg mb-3">Tentang Saya</h4>
                     <h2 class="font-bold text-gray text-3xl mb-5 max-w-xl lg:text-4xl">Mengenal Saya Lebih Dekat
                     </h2>
-                    <p class="font-medium text-base text-gray max-w-xl lg:text-lg">Saya Muh. Alif Anhar, seorang programmer
-                        yang bersemangat dalam menciptakan solusi kreatif berbasis web. Dengan pengalaman di berbagai proyek
-                        pengembangan aplikasi, saya terus belajar dan mengasah keterampilan untuk membantu bisnis dan
-                        individu mencapai potensi terbaik mereka di dunia digital</p>
+                    <p class="font-medium text-base text-gray max-w-xl lg:text-lg">Saya Muh. Alif Anhar, berdomisili di
+                        Banta-Bantaeng, Makassar, Sulawesi Selatan. Saya lulusan SMKN 3 Makassar, jurusan Teknik Komputer &
+                        Jaringan. Saya memiliki keterampilan dalam menggunakan software perkantoran, desain grafis, serta
+                        pengembangan website menggunakan Framework Laravel.
+                    </p>
                 </div>
                 <div class="w-full px-4 lg:w-1/2">
                     <h1 class="font-semibold text-gray text-2xl mb-4 lg:text-3xl lg:pt-10">Mari berteman</h1>
-                    <p class="font-medium text-base text-gray mb-6 lg:text-lg">Saya selalu terbuka untuk berkolaborasi,
-                        berbagi ide, atau berdiskusi tentang teknologi. Jangan ragu untuk menghubungi saya melalui platform
-                        sosial media atau pesan langsung. Saya percaya, hubungan baik adalah kunci menuju kesuksesan
-                        bersama!</p>
+                    <p class="font-medium text-base text-gray mb-6 lg:text-lg">Saya terbuka untuk kolaborasi, berbagi ide,
+                        atau berdiskusi tentang teknologi. Jangan ragu menghubungi saya melalui platform media sosial atau
+                        pesan langsung. Saya percaya, hubungan baik adalah kunci menuju kesuksesan bersama!</p>
                     <div class="flex items-center">
                         <a href="https://github.com/muhalifanhar" target="_blank"
                             class="mr-3 flex h-9 w-9 items-center justify-center rounded-full border border-dark text-dark hover:border-dark hover:bg-dark hover:text-black">
@@ -97,4 +113,6 @@
             </div>
         </div>
     </section>
+
+    <script src="js/script.js"></script>
 @endsection
