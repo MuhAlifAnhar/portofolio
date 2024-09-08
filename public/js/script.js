@@ -11,7 +11,9 @@ window.onscroll = function() {
 
 
 const navbar = document.querySelector('#navbar');
+const navMenu = document.querySelector('#nav-menu');
 
 navbar.addEventListener('click', function() {
     navbar.classList.toggle('navbar-active');
+    navMenu.classList.toggle('hidden');
 });
